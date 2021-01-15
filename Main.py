@@ -29,4 +29,5 @@ def cifra(msg, chave, modo):
             print(f'{alfabeto[n-chave]}', end='')
 
 
+cifra(palavra, 7, Mode_Encrypt)
 cifra(palavra, 7, Mode_Decrypt)
