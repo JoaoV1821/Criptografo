@@ -10,7 +10,6 @@ pos = []
 Mode_Encrypt = True
 Mode_Decrypt = False
 
-print(len(alfabeto))
 palavra = str(pesquisa.replace(" ", "*"))
 
 
